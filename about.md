@@ -3,19 +3,22 @@ layout: about
 title: About
 ---
 
-## Welcome to Tech Expert Academy
+## Welcome to Rejoice Uju
 
-### Why
+### Who Are you
 
-While companies are desperately looking for tech talent, many people are either unemployed or they work in unfulfilling jobs. We want to be the match maker between these two parties. 
+My name is Rejoice Uju a Nigerian and a student. I have been passionate looking for ways to achieving my goal of becoming a software engineer.
 
-### How
 
-We partner with fast growing companies. By knowing their needs in the near future, we know how to best prepare our students to fill these roles. 
+### What Are You Striving For
 
-### What
+Due to my flexibility and adaptability coupled with my ability to withstand pressure. It has been my goal to be an effective Software Engineer on cloud developer, programmer to the best of my ability using it to heighten my knowledge and have a source of income.
 
-At TEA students take a three months intensive training for careers such as Data Engineering, Cloud Solutions etc. They learn at their own pace and have a personal coach checking in with them each week. After the three months period is over, coaches and mentors help to land a job. The classes are free and will be paid back through income share agreements if the student successfully lands a job.
+
+### Where Do You See Yourself In Next 2 Years
+
+In the next two years, I will be working with a tech company in a broader sense, not only satisfying but also enhancing my client’s satisfaction.
+
 
 ### Contact
 
